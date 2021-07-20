@@ -1,0 +1,30 @@
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO\bin\Debug\DynGO.exe.config
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO\bin\Debug\DynGO.exe
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO\bin\Debug\DynGO.pdb
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO\obj\Debug\DynGO.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO\obj\Debug\DynGO.Form1.resources
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO\obj\Debug\DynGO.Properties.Resources.resources
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO\obj\Debug\DynGO.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO\obj\Debug\DynGO.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO\obj\Debug\DynGO.exe
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO\obj\Debug\DynGO.pdb
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия\bin\Debug\DynGO.exe.config
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия\bin\Debug\DynGO.exe
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия\bin\Debug\DynGO.pdb
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия\obj\Debug\DynGO.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия\obj\Debug\DynGO.Form1.resources
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия\obj\Debug\DynGO.Properties.Resources.resources
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия\obj\Debug\DynGO.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия\obj\Debug\DynGO.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия\obj\Debug\DynGO.exe
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия\obj\Debug\DynGO.pdb
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия — копия\obj\Debug\DynGO.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия — копия\obj\Debug\DynGO.Form1.resources
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия — копия\obj\Debug\DynGO.Properties.Resources.resources
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия — копия\obj\Debug\DynGO.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия — копия\obj\Debug\DynGO.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия — копия\obj\Debug\DynGO.exe
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия — копия\obj\Debug\DynGO.pdb
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия — копия\bin\Debug\DynGO.exe.config
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия — копия\bin\Debug\DynGO.exe
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\DynGO — копия — копия\bin\Debug\DynGO.pdb

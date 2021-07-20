@@ -1,0 +1,10 @@
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\IZ2\bin\Debug\IZ2.exe.config
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\IZ2\bin\Debug\IZ2.exe
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\IZ2\bin\Debug\IZ2.pdb
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\IZ2\obj\Debug\IZ2.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\IZ2\obj\Debug\IZ2.Properties.Resources.resources
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\IZ2\obj\Debug\IZ2.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\IZ2\obj\Debug\IZ2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\IZ2\obj\Debug\IZ2.exe
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\IZ2\obj\Debug\IZ2.pdb
+C:\Users\Сергей\Desktop\YROKI3\ПРАКТИКА\practice1\IZ2\obj\Debug\IZ2.Form1.resources
